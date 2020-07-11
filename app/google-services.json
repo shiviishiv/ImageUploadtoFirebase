@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513849340287",
+    "firebase_url": "https://studentdatatest-e6bd2.firebaseio.com",
+    "project_id": "studentdatatest-e6bd2",
+    "storage_bucket": "studentdatatest-e6bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513849340287:android:c7fe6662aadbf79a5dea4a",
+        "android_client_info": {
+          "package_name": "com.example.picsgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513849340287-7he52na23nk6crb3l6o9rp4k61otkrah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCYFJHOYq6zvOyYwsqmZh_aX5BKbZ3xb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513849340287-7he52na23nk6crb3l6o9rp4k61otkrah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
